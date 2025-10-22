@@ -15,4 +15,4 @@ check_outliers(
   remove_choice_multiple = TRUE,
   sm_separator = ".",
   columns_not_to_check = NULL
-)
+)vffpjgf
