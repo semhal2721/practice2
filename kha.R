@@ -14,5 +14,5 @@ check_outliers(
   minimum_unique_value_of_variable = NULL,
   remove_choice_multiple = TRUE,
   sm_separator = ".",
-  columns_not_to_check = NULL
-)vffpjgf
+  columns_not_to_check = NULL)
+tudjrug
